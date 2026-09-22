@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaFlow AI",
+  "description": "National Health Resource Intelligence Platform - Smart Health & Supply Chain Resilience for India's PHC Network",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
